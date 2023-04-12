@@ -3,7 +3,7 @@
 
 # Solution
 
-```swift
+```java
 import java.util.*;
 class Solution {
     public Object solution(String s) {
